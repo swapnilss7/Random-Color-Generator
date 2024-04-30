@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    margin-top: 100px;
+
+}
+h2{
+    font-size: 40px;
+}
+button{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 0.2px solid black;
+}
+div{
+    height: 200px;
+    width: 700px;
+    text-align: center;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    font-size: 25px;
+    padding-top: 15px;
+}
